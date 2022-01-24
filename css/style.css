@@ -1,6 +1,13 @@
 body {
     margin: 0;
-    background-color: rgba(93, 6, 136, 0.994);
+    background-color: rgb(43, 3, 63);
+}
+
+
+#particles-js
+{
+    height: 100%;
+    background: rgb(46, 3, 102);
 }
 
 .main-game {
@@ -10,6 +17,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 
 .genius {
     display: grid;
